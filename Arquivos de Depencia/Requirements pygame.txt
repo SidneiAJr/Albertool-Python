@@ -1,0 +1,15 @@
+# ===== PYGAME =====
+# Instalar: pip install -r requirements-pygame.txt
+
+# ===== GAME ENGINE =====
+pygame==2.5.2
+
+# ===== MATEMÁTICA / FÍSICA =====
+numpy==1.26.2
+pymunk==6.6.0
+
+# ===== AMBIENTE =====
+python-dotenv==1.0.0
+
+# ===== ASSETS / IMAGEM =====
+Pillow==10.1.0

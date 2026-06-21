@@ -1,0 +1,29 @@
+# ===== FASTAPI =====
+# Instalar: pip install -r requirements-fastapi.txt
+
+# ===== CORE =====
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# ===== AUTENTICAÇÃO =====
+python-jose==3.3.0
+bcrypt==4.1.2
+passlib==1.7.4
+
+# ===== BANCO DE DADOS =====
+sqlalchemy==2.0.23
+asyncpg==0.29.0
+mysql-connector-python==8.2.0
+
+# ===== VALIDAÇÃO =====
+pydantic==2.5.0
+pydantic-settings==2.1.0
+email-validator==2.1.0
+
+# ===== AMBIENTE =====
+python-dotenv==1.0.0
+
+# ===== UTILITÁRIOS =====
+httpx==0.25.2
+requests==2.31.0
+python-multipart==0.0.6

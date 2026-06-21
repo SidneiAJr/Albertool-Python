@@ -1,0 +1,5 @@
+# ===== GERAR EXECUTÁVEL =====
+# Instalar: pip install -r requirements-exe.txt
+
+# ===== BUILD =====
+pyinstaller==6.3.0

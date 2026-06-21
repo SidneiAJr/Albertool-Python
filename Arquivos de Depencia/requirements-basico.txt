@@ -1,0 +1,17 @@
+# ===== BÁSICO PYTHON =====
+# Instalar: pip install -r requirements-basico.txt
+
+# ===== HTTP =====
+requests==2.31.0
+
+# ===== AMBIENTE =====
+python-dotenv==1.0.0
+
+# ===== VALIDAÇÃO =====
+pydantic==2.5.0
+
+# ===== BANCO DE DADOS =====
+mysql-connector-python==8.2.0
+
+# ===== GUI =====
+# tkinter já vem com Python — não precisa instalar
